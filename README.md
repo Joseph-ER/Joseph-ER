@@ -11,4 +11,4 @@ joseph.edwardsrean@outlook.com
 
 I'm a Makers Graduate looking for long term software development roles, but in the mean time I'll be making smaller projects!
 
-My Makers Graduation project repository: https://github.com/EvSivtsova/ratify
+My Makers Graduation project repository: https://github.com/Joseph-ER/ratify
