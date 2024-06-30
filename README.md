@@ -9,6 +9,6 @@ Your best bet is to email me at:
 joseph.edwardsrean@outlook.com
 ```
 
-I'm a Junior Dev Support Engineer for Dentally!
+I'm a Developer for Dentally!
 
 My Makers Graduation project repository: https://github.com/Joseph-ER/ratify
